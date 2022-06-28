@@ -13,7 +13,7 @@
       type = "git";
       flake = false;
       url = "https://github.com/zitadel/zitadel";
-      ref = "refs/tags/v1.84.5";
+      ref = "refs/tags/v2.0.0-v2-alpha.33";
     };
   };
 

@@ -105,11 +105,11 @@
     "googleapis": {
       "flake": false,
       "locked": {
-        "lastModified": 1656363146,
-        "narHash": "sha256-fETV0ARC1DnVVY0TVyuf1QLSLP7VV23Sr1mqEPNGFtk=",
+        "lastModified": 1656420194,
+        "narHash": "sha256-i07ZPERc6+S0rKdewaqoILTTyuvIT/5JrmlBtEPMEHo=",
         "owner": "googleapis",
         "repo": "googleapis",
-        "rev": "f37528b2c41283c6c19fe3bbdad85c713f1472f3",
+        "rev": "a4761d58517fd9f9fe3fcf3d398ed2b2cf4ad9ae",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
         "nixpkgs": "nixpkgs_3"
       },
       "locked": {
-        "lastModified": 1656322574,
-        "narHash": "sha256-+Kp004dG41tZnaOLHcphWsTzoUAoMGpqQIN3KDpV420=",
+        "lastModified": 1656419138,
+        "narHash": "sha256-RrURfI7jV21pT55mZJ0uP/q/lt60Mm/yLsSgZD6ts0k=",
         "owner": "thegergo02",
         "repo": "grpc-gateway-flake",
-        "rev": "5b59540d88ee321f436bea445bdaa2d73cbe82ca",
+        "rev": "4159bf2b63561cc58ac970c08f91a3aa5fc824bf",
         "type": "github"
       },
       "original": {
@@ -142,17 +142,18 @@
     "grpc-gateway-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1656165512,
-        "narHash": "sha256-RoODVkJncw5f1t2jBvmG6TCLHHyc1Ev3EMsmFRf8MnA=",
-        "owner": "grpc-ecosystem",
-        "repo": "grpc-gateway",
-        "rev": "29414b07e7ed504a12d63e32fd7134b489fc8047",
-        "type": "github"
+        "lastModified": 1631061135,
+        "narHash": "sha256-PfLMvuHe/bsO3mmnqDQTd16kH39jKHNwlVDPoJh1I2c=",
+        "ref": "refs/tags/v2.6.0",
+        "rev": "f60dfa5c7b5fc2ce944f7625b551a63f8c4ea93e",
+        "revCount": 1657,
+        "type": "git",
+        "url": "https://github.com/grpc-ecosystem/grpc-gateway"
       },
       "original": {
-        "owner": "grpc-ecosystem",
-        "repo": "grpc-gateway",
-        "type": "github"
+        "ref": "refs/tags/v2.6.0",
+        "type": "git",
+        "url": "https://github.com/grpc-ecosystem/grpc-gateway"
       }
     },
     "nixpkgs": {
@@ -205,11 +206,11 @@
     },
     "nixpkgs_4": {
       "locked": {
-        "lastModified": 1656032109,
-        "narHash": "sha256-yVpOG/FDHQa8hzhTGoLFgplTCDH/+ydYsF7Mc3pMQfk=",
+        "lastModified": 1656122851,
+        "narHash": "sha256-fUXK49Hp6oktAZz42+VPDXa+/9FpzICnEKWhh4zqr30=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "902d91def1efbea804f5158e5999cb113cedf04b",
+        "rev": "891016b5cf1998ea84852adac52c65c5ccd3e802",
         "type": "github"
       },
       "original": {
@@ -348,16 +349,16 @@
     "zitadel-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1655797870,
-        "narHash": "sha256-K51ISSbih8V01ZG7n68of7IoMSoUVY+dQ6BEl5tX9cg=",
-        "ref": "refs/tags/v1.84.5",
-        "rev": "1756320397f6b43c0855a95d887bb6e6f004cced",
-        "revCount": 1395,
+        "lastModified": 1656325954,
+        "narHash": "sha256-tqRSFaDsbXaSW/JKPDVWVQroAQRVfyt8JO6BAeW/2w4=",
+        "ref": "refs/tags/v2.0.0-v2-alpha.33",
+        "rev": "12d4d3ea0b9c4347659424401377aae330e86551",
+        "revCount": 1528,
         "type": "git",
         "url": "https://github.com/zitadel/zitadel"
       },
       "original": {
-        "ref": "refs/tags/v1.84.5",
+        "ref": "refs/tags/v2.0.0-v2-alpha.33",
         "type": "git",
         "url": "https://github.com/zitadel/zitadel"
       }
